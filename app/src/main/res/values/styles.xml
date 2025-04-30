@@ -1,0 +1,65 @@
+<resources>
+
+    <!-- Light Gray Buttons (AC, +/- , % ) -->
+    <style name="CalculatorButtonLight" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">72dp</item>
+        <item name="android:layout_height">72dp</item>
+        <item name="android:background">@drawable/circle_button_light</item>
+        <item name="android:backgroundTint">@null</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <!-- Dark Buttons (Numbers) -->
+    <style name="CalculatorButtonDark" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">72dp</item>
+        <item name="android:layout_height">72dp</item>
+        <item name="android:background">@drawable/circle_button_dark</item>
+        <item name="android:backgroundTint">@null</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <!-- Orange Buttons (Operators) -->
+    <style name="CalculatorButtonOrange" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">72dp</item>
+        <item name="android:layout_height">72dp</item>
+        <item name="android:background">@drawable/circle_button_orange</item>
+        <item name="android:backgroundTint">@null</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <!-- Normal Buttons (Operators) -->
+    <style name="CalculatorButtonNormal" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">72dp</item>
+        <item name="android:layout_height">72dp</item>
+        <item name="android:background">@drawable/btn_circle</item>
+        <item name="android:backgroundTint">@null</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <!-- Dark Gray Buttons (Scientific Functions) -->
+    <style name="CalculatorButtonScientific" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">72dp</item>
+        <item name="android:layout_height">72dp</item>
+        <item name="android:background">@drawable/circle_button_scientific</item>
+        <item name="android:backgroundTint">@null</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="NoAnimationDialog" parent="ThemeOverlay.MaterialComponents.BottomSheetDialog">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+
+</resources>
