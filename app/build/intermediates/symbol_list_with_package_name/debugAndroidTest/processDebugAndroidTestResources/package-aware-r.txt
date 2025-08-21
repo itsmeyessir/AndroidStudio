@@ -1,3 +1,0 @@
-com.example.scical.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme

@@ -1,5 +1,0 @@
-com.example.scical.test.app-jetified-core-1.6.1-0 /Users/robbieespaldon/.gradle/caches/8.11.1/transforms/028536d6f1e39a21cb6dcb4a4db33d8f/transformed/jetified-core-1.6.1/res
-com.example.scical.test.app-androidTest-1 /Users/robbieespaldon/AndroidStudioProjects/SciCal/app/build/generated/res/resValues/androidTest/debug
-com.example.scical.test.app-mergeDebugAndroidTestResources-2 /Users/robbieespaldon/AndroidStudioProjects/SciCal/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.example.scical.test.app-mergeDebugAndroidTestResources-3 /Users/robbieespaldon/AndroidStudioProjects/SciCal/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.example.scical.test.app-debugAndroidTest-4 /Users/robbieespaldon/AndroidStudioProjects/SciCal/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
