@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "com.example.scical.app-debug-34:/drawable_edittext_background.xml.flat",
+        "source": "com.example.scical.app-main-36:/drawable/edittext_background.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/anim_fade_in.xml.flat",
+        "source": "com.example.scical.app-main-36:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.scical.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/xml_backup_rules.xml.flat",
+        "source": "com.example.scical.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/anim_slide_out_right.xml.flat",
+        "source": "com.example.scical.app-main-36:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/drawable_squircle_button_dark_background.xml.flat",
+        "source": "com.example.scical.app-main-36:/drawable/squircle_button_dark_background.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.scical.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.scical.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.example.scical.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.scical.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.scical.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.scical.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/drawable_bottom_sheet_background.xml.flat",
+        "source": "com.example.scical.app-main-36:/drawable/bottom_sheet_background.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/drawable_circle_button_scientific.xml.flat",
+        "source": "com.example.scical.app-main-36:/drawable/circle_button_scientific.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/drawable_circle_button_dark.xml.flat",
+        "source": "com.example.scical.app-main-36:/drawable/circle_button_dark.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/layout_dialog_mode_selection.xml.flat",
+        "source": "com.example.scical.app-main-36:/layout/dialog_mode_selection.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/anim_slide_up.xml.flat",
+        "source": "com.example.scical.app-main-36:/anim/slide_up.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/layout_activity_graphing.xml.flat",
+        "source": "com.example.scical.app-main-36:/layout/activity_graphing.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.scical.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/drawable_mode_selected_background.xml.flat",
+        "source": "com.example.scical.app-main-36:/drawable/mode_selected_background.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.scical.app-pngs-30:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/layout_activity_scientific.xml.flat",
+        "source": "com.example.scical.app-main-36:/layout/activity_scientific.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.scical.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/drawable_ic_calculator.png.flat",
+        "source": "com.example.scical.app-main-36:/drawable/ic_calculator.png"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.scical.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/anim_slide_down.xml.flat",
+        "source": "com.example.scical.app-main-36:/anim/slide_down.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/drawable_squircle_button_orange_background.xml.flat",
+        "source": "com.example.scical.app-main-36:/drawable/squircle_button_orange_background.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/drawable_squircle_button_light_background.xml.flat",
+        "source": "com.example.scical.app-main-36:/drawable/squircle_button_light_background.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/anim_fade_out.xml.flat",
+        "source": "com.example.scical.app-main-36:/anim/fade_out.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/drawable_btn_circle.xml.flat",
+        "source": "com.example.scical.app-main-36:/drawable/btn_circle.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/anim_bounce.xml.flat",
+        "source": "com.example.scical.app-main-36:/anim/bounce.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/anim_shake.xml.flat",
+        "source": "com.example.scical.app-main-36:/anim/shake.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/drawable_circle_button_light.xml.flat",
+        "source": "com.example.scical.app-main-36:/drawable/circle_button_light.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.scical.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/drawable_ic_mode_switch.xml.flat",
+        "source": "com.example.scical.app-main-36:/drawable/ic_mode_switch.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/drawable_circle_button_orange.xml.flat",
+        "source": "com.example.scical.app-main-36:/drawable/circle_button_orange.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.scical.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.scical.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.scical.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/anim_slide_in_left.xml.flat",
+        "source": "com.example.scical.app-main-36:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.example.scical.app-debug-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.scical.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]
