@@ -142,25 +142,10 @@ Run the test suite:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👥 Authors
 
 - **itsmeyessir** - *Initial work* - [GitHub Profile](https://github.com/itsmeyessir)
 
-## 🙏 Acknowledgments
-
-- [MXParser](https://mathparser.org/) for the powerful mathematical expression evaluation
-- [GraphView](https://github.com/jjoe64/GraphView) for graph plotting capabilities
-- Material Design team for the UI components
-- Android development community for continuous support
-
-## 📞 Support
-
-For support, please open an issue on GitHub or contact the development team.
-
 ---
 
-**Happy Calculating!** 🧮✨
+**Thank you!** 🧮✨
